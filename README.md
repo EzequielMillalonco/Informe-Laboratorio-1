@@ -220,15 +220,29 @@ I(t)= 2.05 (mA)
         1.5.5. Compare los resultados medidos con los valores obtenidos al analizar 
         el circuito analíticamente y concluya al respecto.
 
+Se aplica la formula del error porcentual para calcular cual fue el error entre las medidas, siendo el error porcentual aceptable del 5%
+
+![image](https://user-images.githubusercontent.com/93396250/141480859-765210f6-609f-4c8b-9ad1-4f4543fa9817.png)
 
 
+Utilizando esta fórmula se concluyó lo siguiente:
+
+  La tabla 1 tuvo un error porcentual máximo del 1%, teniendo un margen de error de ± 0.01
+
+  La tabla 2 tuvo un error porcentual máximo del 0.5%, teniendo un margen de error de ± 0.01
+
+  La tabla 3 tuvo un error porcentual máximo del 1%, teniendo un margen de error de ± 0.01
+
  
- 
+Por tanto, se concluye que el presente laboratorio fue exitoso ya que se pudo demostrar experimentalmente que la suma de voltajes alrededor de una malla es igual a cero y que la suma de todas las corrientes que fluyen hacia un nodo es igual a la suma de las corrientes que salen del nodo, cumpliéndose así las 2 Leyes de Kirchhoff
+  
  
 
 ## 5. VIDEO
 
-        Link del video ¨Informe de laboratorio 1¨ en donde....
+        Link del video ¨Informe de laboratorio 1¨ en donde se explica la teoria de las Leyes de Kirchhoff mediante la construccion de un circuito electrico basico, además se demuestra que las Leyes se cumplen.
+ 
+[![Presentación Tarea 1](https://img.youtube.com/vi/2iV6VzArCmY/0.jpg)](https://www.youtube.com/watch?v=2iV6VzArCmY)
 
 ## 6. CONCLUSIONES
 
