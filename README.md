@@ -39,6 +39,30 @@ Para el presente Laboratorio, estas leyes ayudaran a encontrar el voltaje y la c
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+![CIRCUITO](https://user-images.githubusercontent.com/93826527/141395767-d336eb07-8bbf-4ad2-b784-94f85b772f0b.jpg)
+
+**TRAYECTORIA 1**
+
+I= V/R = 10 (V) / 6700 (Ω)         I= 1.49 (mA)
+
+V(R1) = I*R = 1.49 (mA) * 1 (KΩ) = 1.49 (V)
+
+V(R2) = I*R = 1.49 (mA) * 3.9 (KΩ) = 5.81 (V)
+
+V(R5) = I*R = 1.49 (mA) * 1.8 (KΩ) = 2.68 (V)
+
+**TRAYECTORIA 2**
+
+I= V/R = 10 (V) / 6700 (Ω)         I= 1.49 (mA)
+
+V(R1) = I*R = 1.49 (mA) * 1 (KΩ) = 1.49 (V)
+
+V(R2) = I*R = 1.49 (mA) * 3.9 (KΩ) = 5.81 (V)
+
+V(R5) = I*R = 1.49 (mA) * 1.8 (KΩ) = 2.68 (V)
+
+
+
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
