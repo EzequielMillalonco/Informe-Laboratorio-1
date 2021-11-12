@@ -39,6 +39,51 @@ Para el presente Laboratorio, estas leyes ayudaran a encontrar el voltaje y la c
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+3.1 Material y Equipo requerido
+
+![image](https://user-images.githubusercontent.com/93396250/141407309-e2500248-f3ce-4473-8ffe-e251d55f9611.png)
+
+3.2 PROCEDIMIENTO
+
+1.5.1. Arme el circuito que se muestra en la figura 1.1. 
+
+![image](https://user-images.githubusercontent.com/93396250/141407406-acae6373-213c-4b27-a9e1-05afc79be90c.png)
+
+Circuito armado
+
+
+
+1. Esta fórmula se usa para calcular la Resistencia Equivalente cuando las resistencias están en serie
+
+![R en serie](https://user-images.githubusercontent.com/93834732/141392523-60d521df-127c-4353-be87-f3f3cec55a27.PNG)
+
+Un ejemplo de su aplicación seria la Resistencia Equivalente formada por R3 y R4 las cuales están en serie
+
+![Re1](https://user-images.githubusercontent.com/93834732/141392861-9cdf388f-a3d6-4236-a00b-f8e4e655f972.PNG)
+
+
+Esta fórmula se usa para calcular la Resistencia Equivalente cuando las resistencias están en paralelo
+
+![R en paralelo](https://user-images.githubusercontent.com/93834732/141393240-874d0230-d3d5-4d69-972b-18c831e9c6e3.PNG)
+
+Un ejemplo de su aplicación seria la Resistencia Equivalente formada por Re y R2 las cuales están en paralelo
+
+![Re2](https://user-images.githubusercontent.com/93834732/141393327-a333f5f5-865a-4d7e-8ae6-551c29488a28.PNG)
+
+Para el cálculo de la intensidad y voltaje se usa la ley de Ohm la cual nos dice que el Voltaje es igual a la Intensidad por la resistencia
+
+![Ley de ohm](https://user-images.githubusercontent.com/93834732/141393724-ea221838-428d-446d-bf1f-697cf9c0824d.PNG)
+
+Un ejemplo de su aplicación seria en el cálculo de la corriente de la resistencia equivalente final sabiendo que el voltaje inicial es de 10V
+
+![Intensidad](https://user-images.githubusercontent.com/93834732/141394063-be664dbd-3cfa-46d7-9af2-9d5610bdd64e.PNG)
+
+Otra aplicación seria en el cálculo del voltaje de R1 sabiendo que la intensidad se mantiene y viene de la ya previamente calculada Ireq
+
+![Voltaje](https://user-images.githubusercontent.com/93834732/141394278-4db3a311-0294-41e1-8bac-f448c51afb9f.PNG)
+
+
+
 ![CIRCUITO](https://user-images.githubusercontent.com/93826527/141395767-d336eb07-8bbf-4ad2-b784-94f85b772f0b.jpg)
 
 **TRAYECTORIA 1**
@@ -81,15 +126,37 @@ V(R5) = I*R = 1.39 (mA) * 1.8 (KΩ) = 2.5 (V)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los 
+resultados de las mediciones en la tabla 1. 
+
+**TABLA 1**
+
+![Tabla 1](https://user-images.githubusercontent.com/93834732/141392620-31644ae3-e415-485e-b4b9-d4fb3007805e.PNG)
+
+1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 2.
+
 **TABLA 2**
 
 **TRAYECTORIAS**
 
 ![TABLA 2](https://user-images.githubusercontent.com/93826527/141403418-197bbc5b-27ef-48ae-b9a1-142786692445.png)
 
+1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 3.
+
+**TABLA 3**
+
+
+FIDEL
+ 
+1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
+analíticamente y concluya al respecto.
+
+
 ## 5. VIDEO
 
-        Link del video ¨Informe de laboratorio 1¨ en donde....
+   Link del video ¨Informe de laboratorio 1¨ en donde se explica la teoria acerca de la Ley de Kirchhoff, se realiza la construción de un circuito y la resolucion de los literales planteados para el presente laboratorio.
+   
+   
 
 ## 6. CONCLUSIONES
 
