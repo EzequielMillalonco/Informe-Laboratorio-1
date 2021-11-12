@@ -77,9 +77,13 @@ V(R5) = I*R = 1.39 (mA) * 1.8 (KΩ) = 2.5 (V)
 
 **LEY DE CORRIENTES DE KIRCHHOFF**
 
+Req= 4.86 (KΩ)
+
+It= 2.05 (mA)
+
 **NODO 1**
 
-
+I(R1)
 
 
 
