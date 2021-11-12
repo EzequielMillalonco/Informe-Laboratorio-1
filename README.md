@@ -201,7 +201,7 @@ I(t)= 2.05 (mA)
 
 **TABLA 2. Verificación de la LVK.**
 
-![TABLA 2](https://user-images.githubusercontent.com/93826527/141403418-197bbc5b-27ef-48ae-b9a1-142786692445.png)
+![Screenshot 2021-11-12 090440](https://user-images.githubusercontent.com/93826527/141479484-20d39284-68c3-4662-b045-d298e978847f.png)
 
  
  
@@ -212,7 +212,7 @@ I(t)= 2.05 (mA)
 
 **TABLA 3. Verificación de la LCK.**
 
-![TABLA 3](https://user-images.githubusercontent.com/93826527/141467478-06ae6324-0bab-436d-95a9-fb2a1392edd8.png)
+![Screenshot 2021-11-12 091119](https://user-images.githubusercontent.com/93826527/141480433-e6b5f20a-b926-4bc0-820c-7950a5824312.png)
  
  
  
