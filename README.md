@@ -33,8 +33,7 @@ En otras palabras, la Ley de Ohm se usa para determinar la relación entre tensi
 
 ### 2.2 Leyes de Kirchhoff 
 
-![Mapa Kirchhoff](https://user-images.githubusercontent.com/93396250/141465387-006daaf7-9ec7-41f9-9f91-fef325da1990.png)
-
+![Jsjsjs (2)](https://user-images.githubusercontent.com/93396250/141391389-4092b3c1-528b-451f-9aae-1e126b72cf57.png)
 
 Para el presente Laboratorio, estas leyes ayudaran a encontrar el voltaje y la corriente de cada componente del circuito.  Una vez entendidas la Ley de Ohm y la Ley de Kirchhoff, se puede pasar a la resolucion del Laboratorio.
 
@@ -141,7 +140,39 @@ It= 2.05 (mA)
 
 **NODO 1**
 
-I(R1)
+I(t)= 2.05 (mA)
+ 
+ **NODO 2**
+ 
+ I(R1) = 2.05 (mA)
+ 
+ Junto las resistencias 2,3,4 e haciendo calculo en serie y paralelo y obtengo Req = 2.06 (KΩ). Luego calculo el voltaje que pasaría por esa resistencia equivalente y obtengo  
+ 
+ Veq= IR1 * Req = 4.22 (V)
+
+ **NODO 2**
+ 
+ Una vez que tengo el voltaje equivalente en esa Req, separo nuevamente las resistencias y calculo la corriente que pasa por la resistencia 2.
+ 
+ I(R2) = Veq / R2 = 1.08 (mA)
+ 
+ **NODO 3**
+ 
+ Posteriormente, para calcular la corriente que pasa por la resistencia 3 resto I(R2) de la It y obtengo I(R3), que al estar conectado en serie con R4 es la misma corriente que
+ 
+ pasa por ambas resistencias.
+ 
+ I(R3) = I(R4) = 2.05 (mA) - 1.08 (mA) = 0.97 (mA)
+ 
+ **NODO 4**
+ 
+ La corriente en el nodo 2 se separa y en el nodo 4 vuelve a unirse, sabemos que la suma de las corrientes que entran al nodo 4 es I(R2) + I(R4), que debe ser igual a I(R1)
+ 
+ I(R5) = I(R2) + I(R4) = 2.05 (mA)
+ 
+ **NODO 5**
+ 
+ Al estar en serie la resistencia 5, la corriente que entra del nodo 4 y sale por esta resistencia es la misma.
 
 
 
@@ -175,7 +206,7 @@ I(R1)
 
 **TABLA 3. Verificación de la LCK.**
 
-
+![TABLA 3](https://user-images.githubusercontent.com/93826527/141467478-06ae6324-0bab-436d-95a9-fb2a1392edd8.png)
  
  
  
