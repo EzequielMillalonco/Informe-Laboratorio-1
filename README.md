@@ -161,7 +161,6 @@ resultados de las mediciones en la tabla 1.
 
 **TABLA 2. Verificación de la LVK.**
 
-**TRAYECTORIAS**
 
 ![TABLA 2](https://user-images.githubusercontent.com/93826527/141403418-197bbc5b-27ef-48ae-b9a1-142786692445.png)
 
