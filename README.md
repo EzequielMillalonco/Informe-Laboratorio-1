@@ -17,7 +17,7 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 ## 2. MARCO TEÓRICO
 
-### Ley de Ohm
+### 2.1 Ley de Ohm
 
 Creada por Georg Ohm en 1827 después de que el físico alemán hallase valores de tensión y corriente los cuales pasaban a través de circuitos eléctricos simples que contenían varias longitudes de cables
 
@@ -31,7 +31,7 @@ En otras palabras, la Ley de Ohm se usa para determinar la relación entre tensi
 
 ![image](https://user-images.githubusercontent.com/93396250/141391326-0225e511-d6b6-4d93-97f2-65964ff9fa63.png)
 
-### Leyes de Kirchhoff 
+### 2.2 Leyes de Kirchhoff 
 
 ![Jsjsjs (2)](https://user-images.githubusercontent.com/93396250/141391389-4092b3c1-528b-451f-9aae-1e126b72cf57.png)
 
