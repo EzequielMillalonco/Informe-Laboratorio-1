@@ -240,7 +240,8 @@ Por tanto, se concluye que el presente laboratorio fue exitoso ya que se pudo de
 
 ## 5. VIDEO
 
-        Link del video ¨Informe de laboratorio 1¨ en donde se explica la teoria de las Leyes de Kirchhoff mediante la construccion de un circuito electrico basico, además se demuestra que las Leyes se cumplen.
+        Link del video ¨Informe de laboratorio 1¨ en donde se explica la teoria de las Leyes de Kirchhoff mediante 
+ la construcción de un circuito electrico basico, además se demuestra que las Leyes se cumplen.
  
  https://youtu.be/iyJIL712wRU
  
