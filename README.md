@@ -146,39 +146,42 @@ It= 2.05 (mA)
 
 **NODO 1**
 
-I(t)= 2.05 (mA)
+         I(t)= 2.05 (mA)
  
  **NODO 2**
  
- I(R1) = 2.05 (mA)
- 
- Junto las resistencias 2,3,4 e haciendo calculo en serie y paralelo y obtengo Req = 2.06 (KΩ). Luego calculo el voltaje que pasaría por esa resistencia equivalente y obtengo  
- 
- Veq= IR1 * Req = 4.22 (V)
+         I(R1) = 2.05 (mA)
+
+         Junto las resistencias 2,3,4 e haciendo calculo en serie y paralelo y obtengo Req = 2.06 (KΩ). 
+         Luego calculo el voltaje que pasaría por esa resistencia equivalente y obtengo  
+
+         Veq= IR1 * Req = 4.22 (V)
 
  **NODO 2**
  
- Una vez que tengo el voltaje equivalente en esa Req, separo nuevamente las resistencias y calculo la corriente que pasa por la resistencia 2.
- 
- I(R2) = Veq / R2 = 1.08 (mA)
+         Una vez que tengo el voltaje equivalente en esa Req, separo nuevamente las resistencias y calculo la corriente que pasa por la resistencia 2.
+
+         I(R2) = Veq / R2 = 1.08 (mA)
  
  **NODO 3**
  
- Posteriormente, para calcular la corriente que pasa por la resistencia 3 resto I(R2) de la It y obtengo I(R3), que al estar conectado en serie con R4 es la misma corriente que
- 
- pasa por ambas resistencias.
- 
- I(R3) = I(R4) = 2.05 (mA) - 1.08 (mA) = 0.97 (mA)
- 
+         Posteriormente, para calcular la corriente que pasa por la resistencia 3 resto I(R2) de la It y obtengo I(R3), 
+         que al estar conectado en serie con R4 es la misma corriente que
+
+         pasa por ambas resistencias.
+
+         I(R3) = I(R4) = 2.05 (mA) - 1.08 (mA) = 0.97 (mA)
+
  **NODO 4**
  
- La corriente en el nodo 2 se separa y en el nodo 4 vuelve a unirse, sabemos que la suma de las corrientes que entran al nodo 4 es I(R2) + I(R4), que debe ser igual a I(R1)
- 
- I(R5) = I(R2) + I(R4) = 2.05 (mA)
+         La corriente en el nodo 2 se separa y en el nodo 4 vuelve a unirse, sabemos que la suma
+         de las corrientes que entran al nodo 4 es I(R2) + I(R4), que debe ser igual a I(R1)
+
+         I(R5) = I(R2) + I(R4) = 2.05 (mA)
  
  **NODO 5**
  
- Al estar en serie la resistencia 5, la corriente que entra del nodo 4 y sale por esta resistencia es la misma.
+        Al estar en serie la resistencia 5, la corriente que entra del nodo 4 y sale por esta resistencia es la misma.
 
 
 
