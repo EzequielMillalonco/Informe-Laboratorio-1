@@ -147,8 +147,8 @@ I(R1)
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 
-1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
-resultados de las mediciones en la tabla 1.
+        1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. 
+        Anote los resultados de las mediciones en la tabla 1.
 
 **TABLA 1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.**
 
@@ -157,17 +157,19 @@ resultados de las mediciones en la tabla 1.
  
  
 
-1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, onsiderando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 2.
+        1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, 
+        considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. 
+        Anote los resultados en la tabla 2.
 
 **TABLA 2. Verificación de la LVK.**
-
 
 ![TABLA 2](https://user-images.githubusercontent.com/93826527/141403418-197bbc5b-27ef-48ae-b9a1-142786692445.png)
 
  
  
  
-1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 3.
+        1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo 
+        las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 3.
 
 
 **TABLA 3. Verificación de la LCK.**
@@ -177,7 +179,8 @@ resultados de las mediciones en la tabla 1.
  
  
 
-1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+        1.5.5. Compare los resultados medidos con los valores obtenidos al analizar 
+        el circuito analíticamente y concluya al respecto.
 
 
 
