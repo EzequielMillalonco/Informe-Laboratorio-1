@@ -24,8 +24,7 @@ Creada por Georg Ohm en 1827 después de que el físico alemán hallase valores 
 De acuerdo con la enciclopedia británica La ley de Ohm establece que:
 > La diferencia de voltaje o potencial entre dos puntos es directamente proporcional a la corriente o electricidad que pasa a través de la resistencia, y directamente proporcional a la resistencia del circuito.1
 
-
-En otras palabras, la Ley de Ohm se usa para determinar la relación entre tensión, corriente y resistencia en un circuito eléctrico. Su fórmula es Voltaje = corriente × resistencia (ver imagen 1)
+En otras palabras, la Ley de Ohm se usa para determinar la relación entre tensión, corriente y resistencia en un circuito eléctrico. Su fórmula es Voltaje = corriente × resistencia (ver imagen 1). Estas formulas se usaran en el laboratorio para calcular las magnitudes de tensión, corriente y resistencia.
  
  
 imagen 1. Triángulo de formulas de la ley de Ohm 
@@ -36,6 +35,7 @@ imagen 1. Triángulo de formulas de la ley de Ohm
 
 ![Jsjsjs (2)](https://user-images.githubusercontent.com/93396250/141391389-4092b3c1-528b-451f-9aae-1e126b72cf57.png)
 
+Para el presente Laboratorio, estas leyes ayudaran a encontrar el voltaje y la corriente de cada componente del circuito.  Una vez entendidas la Ley de Ohm y la Ley de Kirchhoff, se puede pasar a la resolucion del Laboratorio.
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
