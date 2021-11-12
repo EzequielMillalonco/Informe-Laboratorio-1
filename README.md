@@ -27,7 +27,7 @@ De acuerdo con la enciclopedia británica La ley de Ohm establece que:
 En otras palabras, la Ley de Ohm se usa para determinar la relación entre tensión, corriente y resistencia en un circuito eléctrico. Su fórmula es Voltaje = corriente × resistencia (ver imagen 1). Estas formulas se usaran en el laboratorio para calcular las magnitudes de tensión, corriente y resistencia.
  
  
-*Imagen 1. Triángulo de formulas de la ley de Ohm*
+*Imagen 1. Triángulo de formulas de la ley de Ohm* 
 
 ![image](https://user-images.githubusercontent.com/93396250/141391326-0225e511-d6b6-4d93-97f2-65964ff9fa63.png)
 
