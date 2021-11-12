@@ -45,6 +45,8 @@ Para el presente Laboratorio, estas leyes ayudaran a encontrar el voltaje y la c
 
 3.2 PROCEDIMIENTO
 
+*Nota: Los literales se dejaron con los mismos numerales que en la guía para así mantener una estructura mas facíl de entender.*
+
 1.5.1. Arme el circuito que se muestra en la figura 1.1. 
 
 ![image](https://user-images.githubusercontent.com/93396250/141407406-acae6373-213c-4b27-a9e1-05afc79be90c.png)
@@ -53,7 +55,9 @@ Circuito armado
 
 
 
-1. Esta fórmula se usa para calcular la Resistencia Equivalente cuando las resistencias están en serie
+3.1) PROCEDIMIENTO LITERAL 1.5.2
+
+Esta fórmula se usa para calcular la Resistencia Equivalente cuando las resistencias están en serie
 
 ![R en serie](https://user-images.githubusercontent.com/93834732/141392523-60d521df-127c-4353-be87-f3f3cec55a27.PNG)
 
@@ -165,7 +169,7 @@ analíticamente y concluya al respecto.
    2. La elaboración del circuito eléctrico resulto en una gran forma de poner en práctica los conocimientos teóricos, y a pesar de que se realizo de manera virtual, la fabricación del circuito familiarizo de manera más visual a los estudiantes con los principios de la Ley de Ohm y la Ley de Kirchhoff. 
         
    3. La construcción del circuito eléctrico fue realiza de manera exitosa, así pudiendo identificar y rotular correctamente sus componentes. Además los cálculos experimentales y teóricos acerca de las magnitudes eléctricas resultaron ser muy parecidos, con un porcentaje de error de , con lo que se concluye que los cálculos fueron realizados correctamente y se da como aprobado el laboratorio #1
-        
+         
 
 
 ## 7. BIBLIOGRAFÍA
