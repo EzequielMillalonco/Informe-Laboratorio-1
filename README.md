@@ -22,16 +22,17 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 Creada por Georg Ohm en 1827 después de que el físico alemán hallase valores de tensión y corriente los cuales pasaban a través de circuitos eléctricos simples que contenían varias longitudes de cables
 
 De acuerdo con la enciclopedia británica La ley de Ohm establece que:
-        > La diferencia de voltaje o potencial entre dos puntos es directamente proporcional a la corriente o electricidad que pasa a través de la resistencia, y directamente proporcional a la resistencia del circuito.1
+> La diferencia de voltaje o potencial entre dos puntos es directamente proporcional a la corriente o electricidad que pasa a través de la resistencia, y directamente proporcional a la resistencia del circuito.1
 
 
 En otras palabras, la Ley de Ohm se usa para determinar la relación entre tensión, corriente y resistencia en un circuito eléctrico. Su fórmula es Voltaje = corriente × resistencia (ver imagen 1)
  
  
 imagen 1. Triángulo de formulas de la ley de Ohm 
+
 ![image](https://user-images.githubusercontent.com/93396250/141391326-0225e511-d6b6-4d93-97f2-65964ff9fa63.png)
 
-###Leyes de Kirchhoff 
+### Leyes de Kirchhoff 
 
 ![Jsjsjs (2)](https://user-images.githubusercontent.com/93396250/141391389-4092b3c1-528b-451f-9aae-1e126b72cf57.png)
 
