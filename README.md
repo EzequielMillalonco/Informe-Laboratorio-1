@@ -159,7 +159,8 @@ It= 2.05 (mA)
 
  **NODO 2**
  
-         Una vez que tengo el voltaje equivalente en esa Req, separo nuevamente las resistencias y calculo la corriente que pasa por la resistencia 2.
+         Una vez que tengo el voltaje equivalente en esa Req, separo nuevamente las resistencias y 
+        calculo la corriente que pasa por la resistencia 2.
 
          I(R2) = Veq / R2 = 1.08 (mA)
  
