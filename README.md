@@ -167,9 +167,7 @@ It= 2.05 (mA)
  **NODO 3**
  
          Posteriormente, para calcular la corriente que pasa por la resistencia 3 resto I(R2) de la It y obtengo I(R3), 
-         que al estar conectado en serie con R4 es la misma corriente que
-
-         pasa por ambas resistencias.
+         que al estar conectado en serie con R4 es la misma corriente que pasa por ambas resistencias.
 
          I(R3) = I(R4) = 2.05 (mA) - 1.08 (mA) = 0.97 (mA)
 
