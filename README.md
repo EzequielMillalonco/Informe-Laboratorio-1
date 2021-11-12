@@ -33,7 +33,8 @@ En otras palabras, la Ley de Ohm se usa para determinar la relación entre tensi
 
 ### 2.2 Leyes de Kirchhoff 
 
-![Jsjsjs (2)](https://user-images.githubusercontent.com/93396250/141391389-4092b3c1-528b-451f-9aae-1e126b72cf57.png)
+![Mapa Kirchhoff](https://user-images.githubusercontent.com/93396250/141465387-006daaf7-9ec7-41f9-9f91-fef325da1990.png)
+
 
 Para el presente Laboratorio, estas leyes ayudaran a encontrar el voltaje y la corriente de cada componente del circuito.  Una vez entendidas la Ley de Ohm y la Ley de Kirchhoff, se puede pasar a la resolucion del Laboratorio.
 
