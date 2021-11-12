@@ -227,11 +227,11 @@ Se aplica la formula del error porcentual para calcular cual fue el error entre 
 
 Utilizando esta fórmula se concluyó lo siguiente:
 
-  La tabla 1 tuvo un error porcentual máximo del 1%, teniendo un margen de error de ± 0.01
+    La tabla 1 tuvo un error porcentual máximo del 1%, teniendo un margen de error de ± 0.01
 
-  La tabla 2 tuvo un error porcentual máximo del 0.5%, teniendo un margen de error de ± 0.01
-
-  La tabla 3 tuvo un error porcentual máximo del 1%, teniendo un margen de error de ± 0.01
+    La tabla 2 tuvo un error porcentual máximo del 0.5%, teniendo un margen de error de ± 0.01
+ 
+    La tabla 3 tuvo un error porcentual máximo del 1%, teniendo un margen de error de ± 0.01
 
  
 Por tanto, se concluye que el presente laboratorio fue exitoso ya que se pudo demostrar experimentalmente que la suma de voltajes alrededor de una malla es igual a cero y que la suma de todas las corrientes que fluyen hacia un nodo es igual a la suma de las corrientes que salen del nodo, cumpliéndose así las 2 Leyes de Kirchhoff
