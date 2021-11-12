@@ -91,7 +91,7 @@ Otra aplicación seria en el cálculo del voltaje de R1 sabiendo que la intensid
 
 **LEY DE VOLTAJES DE KIRCHHOFF**
  
-![CIRCUITO](https://user-images.githubusercontent.com/93826527/141395767-d336eb07-8bbf-4ad2-b784-94f85b772f0b.jpg)
+![TRAYECTORIAS](https://user-images.githubusercontent.com/93826527/141469849-8a128b78-25f6-4ea3-bd31-4218fdbde7fa.png)
 
 **TRAYECTORIA 1**
         
