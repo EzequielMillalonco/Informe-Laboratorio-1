@@ -55,7 +55,7 @@ Circito electrico realizado en el laboratorio virtual ThinkerCAD: https://www.ti
 
 ![Circuito electrico](https://user-images.githubusercontent.com/93396250/141430797-ff13d5e6-a540-4939-8cbc-083d528f61d0.JPG)
 
-PROCEDIMIENTO TABLA 1:
+<p align=center> PROCEDIMIENTO TABLA 1:
 
 Esta fórmula se usa para calcular la Resistencia Equivalente cuando las resistencias están en serie
 
@@ -87,7 +87,7 @@ Otra aplicación seria en el cálculo del voltaje de R1 sabiendo que la intensid
 
 
 
-PROCEDIMIENTO TABLA 2
+<p align=center> PROCEDIMIENTO TABLA 2
 
 **LEY DE VOLTAJES DE KIRCHHOFF**
 
@@ -124,7 +124,8 @@ V(R4) = I*R = 1.39 (mA) * 2.2 (KΩ) = 3.06 (V)
 V(R5) = I*R = 1.39 (mA) * 1.8 (KΩ) = 2.5 (V)
 
 
-
+<p align=center> PROCEDIMIENTO TABLA 3
+ 
 **LEY DE CORRIENTES DE KIRCHHOFF**
 
 ![gráfico para tabla 3](https://user-images.githubusercontent.com/93396250/141429685-6699d4f9-b2e5-4e92-9732-b091fb64aac3.JPG)
@@ -149,6 +150,8 @@ resultados de las mediciones en la tabla 1.
 
 ![Tabla 1](https://user-images.githubusercontent.com/93834732/141392620-31644ae3-e415-485e-b4b9-d4fb3007805e.PNG)
 
+ 
+ 
 
 1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, onsiderando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 2.
 
@@ -158,17 +161,26 @@ resultados de las mediciones en la tabla 1.
 
 ![TABLA 2](https://user-images.githubusercontent.com/93826527/141403418-197bbc5b-27ef-48ae-b9a1-142786692445.png)
 
+ 
+ 
+ 
 1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 3.
 
 
 **TABLA 3. Verificación de la LCK.**
 
 
+ 
+ 
+ 
 
 1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
 
 
+ 
+ 
+ 
 
 ## 5. VIDEO
 
