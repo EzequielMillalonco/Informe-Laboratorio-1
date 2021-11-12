@@ -57,36 +57,41 @@ Circuito armado
 
 3.1) PROCEDIMIENTO LITERAL 1.5.2
 
-Esta fórmula se usa para calcular la Resistencia Equivalente cuando las resistencias están en serie
+    Esta fórmula se usa para calcular la Resistencia Equivalente cuando las resistencias están en serie
 
 ![R en serie](https://user-images.githubusercontent.com/93834732/141392523-60d521df-127c-4353-be87-f3f3cec55a27.PNG)
 
-Un ejemplo de su aplicación seria la Resistencia Equivalente formada por R3 y R4 las cuales están en serie
+    Un ejemplo de su aplicación seria la Resistencia Equivalente formada por R3 y R4 las cuales están en serie
 
 ![Re1](https://user-images.githubusercontent.com/93834732/141392861-9cdf388f-a3d6-4236-a00b-f8e4e655f972.PNG)
 
 
-Esta fórmula se usa para calcular la Resistencia Equivalente cuando las resistencias están en paralelo
+    Esta fórmula se usa para calcular la Resistencia Equivalente cuando las resistencias están en paralelo
 
 ![R en paralelo](https://user-images.githubusercontent.com/93834732/141393240-874d0230-d3d5-4d69-972b-18c831e9c6e3.PNG)
 
-Un ejemplo de su aplicación seria la Resistencia Equivalente formada por Re y R2 las cuales están en paralelo
+    Un ejemplo de su aplicación seria la Resistencia Equivalente formada por Re y R2 las cuales están en paralelo
 
 ![Re2](https://user-images.githubusercontent.com/93834732/141393327-a333f5f5-865a-4d7e-8ae6-551c29488a28.PNG)
 
-Para el cálculo de la intensidad y voltaje se usa la ley de Ohm la cual nos dice que el Voltaje es igual a la Intensidad por la resistencia
+    Para el cálculo de la intensidad y voltaje se usa la ley de Ohm la cual nos dice que el Voltaje es igual a la Intensidad por la resistencia
 
 ![Ley de ohm](https://user-images.githubusercontent.com/93834732/141393724-ea221838-428d-446d-bf1f-697cf9c0824d.PNG)
 
-Un ejemplo de su aplicación seria en el cálculo de la corriente de la resistencia equivalente final sabiendo que el voltaje inicial es de 10V
+    Un ejemplo de su aplicación seria en el cálculo de la corriente de la resistencia equivalente final sabiendo que el voltaje inicial es de 10V
 
 ![Intensidad](https://user-images.githubusercontent.com/93834732/141394063-be664dbd-3cfa-46d7-9af2-9d5610bdd64e.PNG)
 
-Otra aplicación seria en el cálculo del voltaje de R1 sabiendo que la intensidad se mantiene y viene de la ya previamente calculada Ireq
+    Otra aplicación seria en el cálculo del voltaje de R1 sabiendo que la intensidad se mantiene y viene de la ya previamente calculada Ireq
 
 ![Voltaje](https://user-images.githubusercontent.com/93834732/141394278-4db3a311-0294-41e1-8bac-f448c51afb9f.PNG)
 
 
+
+
+
+
+3.2) PROCEDIMIENTO LITERAL 1.5.3
 
 ![CIRCUITO](https://user-images.githubusercontent.com/93826527/141395767-d336eb07-8bbf-4ad2-b784-94f85b772f0b.jpg)
 
