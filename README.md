@@ -51,11 +51,11 @@ imagen 1. Triángulo de formulas de la ley de Ohm
 
 ## 6. CONCLUSIONES
 
-        1. La realización del circuito eléctrico fue de gran ayuda para entender de manera teórica la Ley de Kirchhoff y Ley de Ohm; y como sus formulas y principios son muy útiles al momento de determinar diferentes magnitudes eléctricas.
+   1. La realización del circuito eléctrico fue de gran ayuda para entender de manera teórica la Ley de Kirchhoff y Ley de Ohm; y como sus formulas y principios son muy útiles al momento de determinar diferentes magnitudes eléctricas.
         
-        2. La elaboración del circuito eléctrico resulto en una gran forma de poner en práctica los conocimientos teóricos, y a pesar de que se realizo de manera virtual, la fabricación del circuito familiarizo de manera más visual a los estudiantes con los principios de la Ley de Ohm y la Ley de Kirchhoff. 
+   2. La elaboración del circuito eléctrico resulto en una gran forma de poner en práctica los conocimientos teóricos, y a pesar de que se realizo de manera virtual, la fabricación del circuito familiarizo de manera más visual a los estudiantes con los principios de la Ley de Ohm y la Ley de Kirchhoff. 
         
-        3. La construcción del circuito eléctrico fue realiza de manera exitosa, así pudiendo identificar y rotular correctamente sus componentes. Además los cálculos experimentales y teóricos acerca de las magnitudes eléctricas resultaron ser muy parecidos, con un porcentaje de error de , con lo que se concluye que los cálculos fueron realizados correctamente y se da como aprobado el laboratorio #1
+   3. La construcción del circuito eléctrico fue realiza de manera exitosa, así pudiendo identificar y rotular correctamente sus componentes. Además los cálculos experimentales y teóricos acerca de las magnitudes eléctricas resultaron ser muy parecidos, con un porcentaje de error de , con lo que se concluye que los cálculos fueron realizados correctamente y se da como aprobado el laboratorio #1
         
 
 
