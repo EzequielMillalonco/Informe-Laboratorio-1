@@ -17,7 +17,7 @@ Específicos:
 
 ## 2. MARCO TEÓRICO
 
-###Ley de Ohm
+### Ley de Ohm
 
 Creada por Georg Ohm en 1827 después de que el físico alemán hallase valores de tensión y corriente los cuales pasaban a través de circuitos eléctricos simples que contenían varias longitudes de cables
 
