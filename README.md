@@ -94,6 +94,8 @@ Otra aplicación seria en el cálculo del voltaje de R1 sabiendo que la intensid
 ![TRAYECTORIAS](https://user-images.githubusercontent.com/93826527/141469849-8a128b78-25f6-4ea3-bd31-4218fdbde7fa.png)
 
 **TRAYECTORIA 1**
+ 
+ ![TRAYECTORIA 1](https://user-images.githubusercontent.com/93826527/141471045-870af031-9f68-4ba6-b906-13d4dc23ad7f.png)
         
         I= V/R = 10 (V) / 6.7 (kΩ)         I= 1.49 (mA)
 
@@ -105,6 +107,8 @@ Otra aplicación seria en el cálculo del voltaje de R1 sabiendo que la intensid
         
 
 **TRAYECTORIA 2**
+ 
+ ![TRAYECTORIA 2](https://user-images.githubusercontent.com/93826527/141471465-9009d122-5fa0-472f-a53f-a008b3d83997.png)
 
         I= V/R = 10 (V) / 8.3 (kΩ)         I= 1.2 (mA)
 
@@ -116,6 +120,8 @@ Otra aplicación seria en el cálculo del voltaje de R1 sabiendo que la intensid
         
 
 **TRAYECTORIA 3**
+ 
+ ![TRAYECTORIA 3](https://user-images.githubusercontent.com/93826527/141471697-67cd2687-e35f-4295-9aeb-6ff5dc3f59e1.png)
 
         I= V/R = 10 (V) / 7.2 (kΩ)         I= 1.39 (mA)
 
