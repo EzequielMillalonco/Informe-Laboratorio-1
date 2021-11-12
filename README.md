@@ -2,17 +2,17 @@
 
 ## 1. OBJETIVOS
  
-General: 
+        General: 
 
-        Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
+Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
 
-Específicos: 
+        Específicos: 
  
-        1. Entender los principios teóricos y fórmulas de la Ley de Kirchhoff y Ley de Ohm mediante la realización de un circuito electrónico básico. 
+1. Entender los principios teóricos y fórmulas de la Ley de Kirchhoff y Ley de Ohm mediante la realización de un circuito electrónico básico. 
         
-        2. Aplicar los conocimientos teóricos que se tiene sobre la Ley de Kirchhoff y Ley de Ohm a través de la elaboración de un circuito eléctrico en un laboratorio virtual. 
+2. Aplicar los conocimientos teóricos que se tiene sobre la Ley de Kirchhoff y Ley de Ohm a través de la elaboración de un circuito eléctrico en un laboratorio virtual. 
         
-        3. Construir un circuito eléctrico con el fin de identificar sus partes básicas y realizar cálculos experiméntales (con un multímetro) y teóricos (aplicando las leyes de Kirchhoff y Ohm) para la determinación del voltaje, corriente, resistencia, etc.
+3. Construir un circuito eléctrico con el fin de identificar sus partes básicas y realizar cálculos experiméntales (con un multímetro) y teóricos (aplicando las leyes de Kirchhoff y Ohm) para la determinación del voltaje, corriente, resistencia, etc.
         
 
 ## 2. MARCO TEÓRICO
@@ -22,9 +22,8 @@ Específicos:
 Creada por Georg Ohm en 1827 después de que el físico alemán hallase valores de tensión y corriente los cuales pasaban a través de circuitos eléctricos simples que contenían varias longitudes de cables
 
 De acuerdo con la enciclopedia británica La ley de Ohm establece que:
-la diferencia de voltaje o potencial entre dos puntos es directamente proporcional a la corriente o electricidad que pasa a través de la resistencia, y directamente proporcional a la resistencia del circuito.
+        > La diferencia de voltaje o potencial entre dos puntos es directamente proporcional a la corriente o electricidad que pasa a través de la resistencia, y directamente proporcional a la resistencia del circuito.1
 
-Britannica, T. Editors of Encyclopaedia (2019, June 24). Ohm's law. Encyclopedia Britannica. https://www.britannica.com/science/Ohms-law
 
 En otras palabras, la Ley de Ohm se usa para determinar la relación entre tensión, corriente y resistencia en un circuito eléctrico. Su fórmula es Voltaje = corriente × resistencia (ver imagen 1)
  
@@ -63,6 +62,6 @@ imagen 1. Triángulo de formulas de la ley de Ohm
 
 Alulema Darwin. Guías Primer Parcial https://classroom.google.com/u/0/w/NDEyOTg4NDk2MDQx/t/all?hl=es
 
-Britannica, T. Editors of Encyclopaedia (2019, June 24). Ohm's law. Encyclopedia Britannica. https://www.britannica.com/science/Ohms-law
+(1) Britannica, T. Editors of Encyclopaedia (2019, June 24). Ohm's law. Encyclopedia Britannica. https://www.britannica.com/science/Ohms-law
 
 McAllister, W. (s.f). Las leyes de Kirchhoff (artículo). Khan Academy. Retrieved November 11, 2021, from https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
