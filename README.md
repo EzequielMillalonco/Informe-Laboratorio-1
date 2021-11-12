@@ -43,7 +43,7 @@ Para el presente Laboratorio, estas leyes ayudaran a encontrar el voltaje y la c
 
 1.5.1. Arme el circuito que se muestra en la figura 1.1.
 
-![CIRCUITO](https://user-images.githubusercontent.com/93826527/141395767-d336eb07-8bbf-4ad2-b784-94f85b772f0b.jpg)
+![image](https://user-images.githubusercontent.com/93396250/141432325-64a5261d-f166-45c1-808f-305dae0375de.png)
 
 
 MATERIALES Y EQUIPO REQUERIDO
@@ -90,6 +90,8 @@ Otra aplicación seria en el cálculo del voltaje de R1 sabiendo que la intensid
 <p align=center> PROCEDIMIENTO TABLA 2
 
 **LEY DE VOLTAJES DE KIRCHHOFF**
+ 
+![CIRCUITO](https://user-images.githubusercontent.com/93826527/141395767-d336eb07-8bbf-4ad2-b784-94f85b772f0b.jpg)
 
 **TRAYECTORIA 1**
 
