@@ -39,7 +39,7 @@ Para el presente Laboratorio, estas leyes ayudaran a encontrar el voltaje y la c
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-*Nota: Se dejo los literales con el mismo numeral que en la guía de laboratorio para tener mas organizacion a lo largo del trabajo y al momento de presentarlo.
+*Nota: Se dejo los literales con el mismo numeral que en la guía de laboratorio para tener mas organizacion a lo largo del trabajo y al momento de presentarlo*
 
 1.5.1. Arme el circuito que se muestra en la figura 1.1.
 
