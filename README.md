@@ -43,7 +43,7 @@ Para el presente Laboratorio, estas leyes ayudaran a encontrar el voltaje y la c
 
 **TRAYECTORIA 1**
 
-I= V/R = 10 (V) / 6700 (Ω)         I= 1.49 (mA)
+I= V/R = 10 (V) / 6.7 (kΩ)         I= 1.49 (mA)
 
 V(R1) = I*R = 1.49 (mA) * 1 (KΩ) = 1.49 (V)
 
@@ -53,13 +53,27 @@ V(R5) = I*R = 1.49 (mA) * 1.8 (KΩ) = 2.68 (V)
 
 **TRAYECTORIA 2**
 
-I= V/R = 10 (V) / 6700 (Ω)         I= 1.49 (mA)
+I= V/R = 10 (V) / 8.3 (kΩ)         I= 1.2 (mA)
 
-V(R1) = I*R = 1.49 (mA) * 1 (KΩ) = 1.49 (V)
+V(R2) = I*R = 1.2 (mA) * 3.9 (KΩ) = 4.68 (V)
 
-V(R2) = I*R = 1.49 (mA) * 3.9 (KΩ) = 5.81 (V)
+V(R3) = I*R = 1.2 (mA) * 2.2 (KΩ) = 2.64 (V)
 
-V(R5) = I*R = 1.49 (mA) * 1.8 (KΩ) = 2.68 (V)
+V(R4) = I*R = 1.2 (mA) * 2.2 (KΩ) = 2.64 (V)
+
+**TRAYECTORIA 3**
+
+I= V/R = 10 (V) / 7.2 (kΩ)         I= 1.39 (mA)
+
+V(R1) = I*R = 1.39 (mA) * 1 (KΩ) = 1.39 (V)
+
+V(R3) = I*R = 1.39 (mA) * 2.2 (KΩ) = 3.06 (V)
+
+V(R4) = I*R = 1.39 (mA) * 2.2 (KΩ) = 3.06 (V)
+
+V(R5) = I*R = 1.39 (mA) * 1.8 (KΩ) = 2.5 (V)
+
+
 
 
 
@@ -67,7 +81,11 @@ V(R5) = I*R = 1.49 (mA) * 1.8 (KΩ) = 2.68 (V)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+**TABLA 2**
 
+**TRAYECTORIAS**
+
+![TABLA 2](https://user-images.githubusercontent.com/93826527/141403418-197bbc5b-27ef-48ae-b9a1-142786692445.png)
 
 ## 5. VIDEO
 
